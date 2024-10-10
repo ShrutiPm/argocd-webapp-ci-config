@@ -8,7 +8,7 @@ image:
   repository: ShrutiPm/argocd-webapp-ci
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: b029d72b659686af79701a44ba01b175db71d55b
+  tag: f4934f40dff97e2b08870f4719ea5043ab3d081f
 
 imagePullSecrets: []
 nameOverride: ""
